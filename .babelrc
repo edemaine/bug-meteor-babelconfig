@@ -1,0 +1,5 @@
+{
+  "plugins": [
+    "not-a-valid-plugin-.babelrc"
+  ]
+}
